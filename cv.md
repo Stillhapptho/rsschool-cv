@@ -54,5 +54,5 @@ HTML, CSS, Markdown
  - UO Pinsk Agrarian and Technical College named after A.E. Klescheva.
  - UO of the Federation of Trade Unions of Belarus International University MITSO
 ---
- # English level: 
-   A1
+# English level: 
+   A2
