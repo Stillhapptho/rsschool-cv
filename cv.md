@@ -1,5 +1,4 @@
 # Alexandr Kolb
----
 
 # Adress:
 
@@ -16,13 +15,12 @@ Belarus
 # Email:
 Stillone751@gmail.com
 
-# About Me
+# About Me:
 >I am a beginner javascript developer without IT background. Ready for hard work on myself to achive all goals on this way.
 
 # Skills: 
-
 HTML, CSS, Markdown
----
+
 
 # Code:
 ```
@@ -47,14 +45,14 @@ HTML, CSS, Markdown
     <p>Описание услуги</p>
   </article>
   </section>
-</main>```
-
+</main>
+```
 ---
 # No work expirience yet
----
+
 # Education:
  - UO Pinsk Agrarian and Technical College named after A.E. Klescheva.
  - UO of the Federation of Trade Unions of Belarus International University MITSO
- ---
+---
  # English level: 
    A1
