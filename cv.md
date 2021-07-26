@@ -2,8 +2,8 @@
 
 # Adress:
 
-Mayakovskogo 158
-Minsk
+Mayakovskogo 158,
+Minsk,
 Belarus
 
 # Phone: 
