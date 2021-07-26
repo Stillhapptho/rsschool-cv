@@ -1,0 +1,83 @@
+html {
+    font-family: Roboto, sans-serif;
+    margin: 0, auto;
+    text-align: center;
+}
+
+h1 {
+    color: #32CD32;
+    margin-bottom: 0.25em;
+}
+
+h2 {
+    color: #333333;
+    font-size: 1em;
+    margin-top: 0;
+    margin-bottom: 1em;
+}
+
+h3 {
+    color: #32CD32;
+}
+
+a {
+    color:#32CD32;
+}
+
+.contacts {
+    display: flex;
+    margin-bottom: 1em;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: auto 10px;
+}
+
+.contact {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: auto 10px;
+}
+
+.experience {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: auto 10px;
+}
+  
+.cv {
+    max-width: 900px;
+    margin: 0, auto;
+    }
+
+    img {
+       width: 200px;
+       height: 200px;
+    }
+
+time {
+    font-weight: bold;
+}
+
+ul {
+    margin: auto;
+    width:900px;
+}
+
+li {
+       padding: 10px;
+}
+       ol { 
+        margin: auto;
+        width: 900px;
+        padding: 10px;
+    }
+
+ .code {
+    text-align: auto;
+ }
+
