@@ -1,1 +1,1 @@
-https://Stillhapptho.github.io/rsschool-cv/
+https://Stillhapptho.github.io/rsschool-cv
